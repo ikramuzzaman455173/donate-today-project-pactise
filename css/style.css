@@ -1,0 +1,16 @@
+*, *::after, *::before {
+box-sizing: border-box;
+padding: 0;
+margin: 0;
+text-transform: capitalize;
+transition: .3s all;
+}
+a{
+text-decoration: none;
+}
+ul {
+list-style-type: none;
+}
+h1{
+  color:#333;
+}
